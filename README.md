@@ -172,6 +172,7 @@ Phase 3: 往復検証
 - **translation-drift.md**: 往復翻訳漂流の詳細分析
 - **implementation.md**: 実装ガイドとサンプルコード
 - **ai-linguistic-safety.md**:安全実装ガイドライン
+- **flicker-fog-detection.md**:フリッカー／霧化 検知公式・実装メモ
 
 ---
 
