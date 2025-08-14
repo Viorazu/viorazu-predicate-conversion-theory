@@ -171,6 +171,7 @@ Phase 3: 往復検証
 - **conversion-patterns.md**: 実装用パターン集
 - **translation-drift.md**: 往復翻訳漂流の詳細分析
 - **implementation.md**: 実装ガイドとサンプルコード
+- **ai-linguistic-safety.md**:安全実装ガイドライン
 
 ---
 
